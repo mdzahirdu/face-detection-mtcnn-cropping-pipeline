@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Face Detection and Cropping Pipeline using MTCNN"
+authors:
+  - family-names: "Chowdhury"
+    given-names: "Mohammad Zahir Uddin"
+    affiliation: "Clarkson University"
+    orcid: "https://orcid.org/0009-0009-8194-6669"
+date-released: 2025-07-27
+license: MIT
+repository-code: https://github.com/mdzahirdu/face-detection-mtcnn-cropping-pipeline

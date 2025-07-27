@@ -1,0 +1,6 @@
+facenet_pytorch
+torch
+torchvision
+pandas
+opencv-python
+pillow
