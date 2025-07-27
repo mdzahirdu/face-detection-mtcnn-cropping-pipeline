@@ -19,7 +19,7 @@ It is designed specifically for biometric and computer vision research applicati
 Whether you're working with surveillance footage, academic face datasets, or real-time image capture scenarios, this pipeline provides an efficient and scalable solution for preparing face crops with traceable metadata and repeatable logic.
 
 
-![Face Detection Output](assets/example_pipeline.png)
+![Face Detection Output](assets/example_output.png)
 
 ## 🚀 Goal and Output
 This project implements an automated **face detection and cropping pipeline** using **MTCNN** from the `facenet_pytorch` library. It works with high-resolution face datasets (from both **Mobile** and **Camera**) and outputs:
